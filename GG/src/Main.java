@@ -1,7 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         double[] a = {
-                38,36,119,65,64,29,105,22,111,43
+                38, 36, 119, 65, 64, 29, 105, 22, 111, 43
         };
         double result = 0;
         for (double v : a) {
