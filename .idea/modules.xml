@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test/test.iml" filepath="$PROJECT_DIR$/test/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/不同路径-leetcode62/不同路径-leetcode62.iml" filepath="$PROJECT_DIR$/不同路径-leetcode62/不同路径-leetcode62.iml" />
       <module fileurl="file://$PROJECT_DIR$/不同路径II-leetcode63/不同路径II-leetcode63.iml" filepath="$PROJECT_DIR$/不同路径II-leetcode63/不同路径II-leetcode63.iml" />
       <module fileurl="file://$PROJECT_DIR$/刷算法题.iml" filepath="$PROJECT_DIR$/刷算法题.iml" />
