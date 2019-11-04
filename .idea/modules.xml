@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Template/Template.iml" filepath="$PROJECT_DIR$/Template/Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/不同路径-leetcode62/不同路径-leetcode62.iml" filepath="$PROJECT_DIR$/不同路径-leetcode62/不同路径-leetcode62.iml" />
+      <module fileurl="file://$PROJECT_DIR$/不同路径II-leetcode63/不同路径II-leetcode63.iml" filepath="$PROJECT_DIR$/不同路径II-leetcode63/不同路径II-leetcode63.iml" />
+      <module fileurl="file://$PROJECT_DIR$/刷算法题.iml" filepath="$PROJECT_DIR$/刷算法题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/找零问题/找零问题.iml" filepath="$PROJECT_DIR$/找零问题/找零问题.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最大连续子序列和/最大连续子序列和.iml" filepath="$PROJECT_DIR$/最大连续子序列和/最大连续子序列和.iml" />
+      <module fileurl="file://$PROJECT_DIR$/最长回文子串/最长回文子串.iml" filepath="$PROJECT_DIR$/最长回文子串/最长回文子串.iml" />
+    </modules>
+  </component>
+</project>
