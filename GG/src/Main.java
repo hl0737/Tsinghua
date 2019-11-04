@@ -1,39 +1,24 @@
 public class Main {
     public static void main(String[] args) {
-        double[] a = {
-                38, 36, 119, 65, 64, 29, 105, 22, 111, 43
+        double totalMoney = 0;
+        int totalLength = 0;
+        double[][] a = {
+                {},
+                {},
+                {},
+                {},
         };
-        double result = 0;
-        for (double v : a) {
-            result += v;
+        for (int i = 0; i < a.length; i++) {
+            double rowSum = 0;
+            int length = 0;
+            for (int j = 0; j < a[i].length; j++) {
+                rowSum += a[i][j];
+                length++;
+            }
+            totalMoney += rowSum;
+            totalLength += length;
+            System.out.println("第" + (i+1) + "行: " + rowSum + ", length = " + length);
         }
-        System.out.println(result);
-
-        double[] b = {
-
-        };
-        result = 0;
-        for (double v : b) {
-            result += v;
-        }
-        System.out.println(result);
-
-        double[] c = {
-
-        };
-        result = 0;
-        for (double v : c) {
-            result += v;
-        }
-        System.out.println(result);
-
-        double[] d = {
-
-        };
-        result = 0;
-        for (double v : d) {
-            result += v;
-        }
-        System.out.println(result);
+        System.out.println("总金额：" + totalMoney + " , 总张数：" + totalLength);
     }
 }
